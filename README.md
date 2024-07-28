@@ -1,7 +1,7 @@
 # Plane wave propagation in a plasma (1D FDTD)
-This repository contains a MATLAB implementation of the 1D Finite Difference Time Domain (FDTD) method for simulating the propagation of plane electromagnetic waves in a plasma medium. The FDTD method is a powerful and widely used numerical technique for solving Maxwell's equations in the time domain, particularly suited for studying wave interactions with complex media like plasmas.
+* This repository contains a MATLAB implementation of the 1D Finite Difference Time Domain (FDTD) method for simulating the propagation of plane electromagnetic waves in a plasma medium. The FDTD method is a powerful and widely used numerical technique for solving Maxwell's equations in the time domain, particularly suited for studying wave interactions with complex media like plasmas.
 
-Features
+## Features
 * 1D FDTD Simulation: Implements a one-dimensional FDTD algorithm to simulate plane wave propagation in a plasma.
 * Plasma Medium Modeling: Accurately models the dispersive properties of plasma, including the effects of plasma frequency and collision frequency.
 * User-Friendly MATLAB Code: Provides clear, well-documented MATLAB scripts that are easy to understand and modify.
