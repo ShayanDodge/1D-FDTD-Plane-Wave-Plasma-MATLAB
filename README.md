@@ -9,3 +9,14 @@
 * Customizable Parameters: Allows users to adjust simulation parameters such as grid size, time steps, plasma density, and wave properties.
 
 ![Untitled](https://user-images.githubusercontent.com/94797491/145854177-0d4618cc-2720-43f8-a984-ddbcd464bef5.png)
+
+---
+
+
+## 📌 Citation
+
+If you use this code in your research, please cite the following paper:
+
+* Dodge S, Shafiee M, Shokri B. "Application of GPU-Accelerated FDTD Method to Electromagnetic Wave Propagation in Plasma Using MATLAB Parallel Processing Toolbox," arXiv preprint arXiv:2211.05647. 2022 Nov 10. DOI: [10.48550/arXiv.2211.05647](https://doi.org/10.48550/arXiv.2211.05647)
+
+---
